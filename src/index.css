@@ -393,6 +393,7 @@ h3 {
 .project-btn-container {
   display: flex;
   gap: 0.25rem;
+  align-self: center;
 }
 
 .project-btn {
@@ -677,6 +678,7 @@ h3 {
 
   .project-btn-container {
     margin-top: 1rem;
+    align-self: flex-start;
   }
 
 }
